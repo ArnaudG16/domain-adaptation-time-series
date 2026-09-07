@@ -1,4 +1,5 @@
 ## Arborescence
+```
 
 notebooks/
    ├── series_utils.py                     génération des séries synthétiques
@@ -26,3 +27,4 @@ notebooks/
    ├── combined/                            les 5 décalages cumulés
 data/
    ├── synthetic/                           source-cible générées (.npz) pour les différentes intensités
+```
